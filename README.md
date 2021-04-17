@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 - 🔭 I like to write code
 - 🌱 I am constantly learning new things
 - :books: I like learn English.
-
+- How to reach me: livenskiyjenya@gmail.com
 <!-- ### Connect with me
 
 [<img align="left" src="https://i.pinimg.com/originals/c2/81/8c/c2818c6d5d111f61846fbc878bc51b5e.png" width="60" alt="instagram">][instagram]
@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  width="60" alt="Vs">
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  width="60" alt="git">
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  width="60" alt="github">
-<img align="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"  src=""  width="60" alt="github">
+<img align="left" src="https://raw.githubusercontent.com/huracan22505/huracan22505/main/image/figma.png"    width="60" alt="figma">
 
 <!-- [instagram]: https://vk.com/id23289560
 
