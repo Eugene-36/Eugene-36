@@ -29,6 +29,8 @@ Here are some ideas to get you started: -->
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/High-contrast-utilities-terminal.svg/1250px-High-contrast-utilities-terminal.svg.png"    width="50" alt="terminal">
 
+<img align="left" src="http://jaybose.com/wp-content/uploads/2016/07/docker.png"    width="50" alt="terminal">
+
 <!-- [instagram]: https://vk.com/id23289560
 
 [vk]: -->
